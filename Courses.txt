@@ -1,0 +1,33 @@
+Calculus
+FD01
+4
+MAT
+25
+Mon
+900
+1000
+Science 109
+12
+5
+2022
+12
+30
+2022
+END
+
+Calculus 50
+FD01
+8
+MAT
+30
+Mon
+900
+1000
+Science 109
+2021
+5
+22
+2021
+10
+10
+END
